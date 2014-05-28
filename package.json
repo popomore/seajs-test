@@ -1,0 +1,9 @@
+{
+  "name": "seajs-test",
+  "version": "1.0.0",
+  "spm": {
+    "dependencies": {
+      "seajs": "2.2.1"
+    }
+  }
+}
